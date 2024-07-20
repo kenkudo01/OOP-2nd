@@ -29,4 +29,4 @@ The program should ask for a filename, then print the content of the input file.
 
 
 # UML
-![Gases](picture/Group 7.png)
+![Gases](https://github.com/kenkudo01/OOP-2nd/blob/main/picture/Group%207.png)
